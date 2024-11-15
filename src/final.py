@@ -498,7 +498,7 @@ music = ["asset/minions.mp3","asset/oiseau.mp3"]
 pygame.mixer.music.load(music[random.randint(0,1)])
 pygame.mixer.music.play(-1)
 
-#
+
 #create clock object
 clock = pygame.time.Clock()
 #set the title of the window

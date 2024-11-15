@@ -1,0 +1,5 @@
+pyserial
+pygame
+pandas
+seaborn
+matplotlib
