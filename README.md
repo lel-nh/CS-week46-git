@@ -16,4 +16,6 @@ J'ai ensuite décidé de faire des graphes sur différents paramètres :
 - nombre de partie
 - et nombre de lettre du prénom ! 
 
-Voir les résultats sur le ipynb & une vidéo présentant le jeu 
+Voir les résultats sur le ipynb & une vidéo présentant le jeu  :
+
+https://youtube.com/shorts/Z6fBHeoTZAc?feature=share
